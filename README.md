@@ -1,8 +1,8 @@
 # Projeto_Livre_OO
-Projeto Livre da disciplina de Orientação a Objetos:
-   Esse sistema é bem simples, ele tem opções para Listar os Veículos disponíveis, pesquisar algum veículo ou marca especifica, anunciar um novo veiculo no sistema e a opção de sair. Sendo assim basta escolher qual a opção desejada e usufruir do sistema.
+Projeto Livre da disciplina de Orientação a Objetos:\n
+   Esse sistema é bem simples, ele tem opções para Listar os Veículos disponíveis, pesquisar algum veículo ou marca especifica, anunciar um novo veiculo no sistema e a opção de sair. Sendo assim basta escolher qual a opção desejada e usufruir do sistema.\n
 
-Como usar o sistema:
+Como usar o sistema:\n
      Para usar esse sistema é necessario q os arquivos estejam nas suas pastas sem nenhuma modificação, primeiramente deve-se executar o arquivo "main.py", o qual dará inicio no sistema. Assim que for iniciado ele apresentará as opções de: 1 - Ver os veículos disponiveis, 2 - Pesquisar um veículo especifico, essa busca pode ser tanto pela marca ou modelo do veículo, 3 - Anunciar um novo veículo, nesta função voce deve informa os dados do automovel (Marca, Modelo, Ano), bem como as informações do vendedor (Nome, Contato, CPF, UF). Depois de informar esses dados o sistema os salvará no seu arquivo JSON e TXT, a ultima opção e 4 - Sair, que serve apenas para fechar o sistema. Quanto a formatação dos dados na hora de anunciar o veículo segue um modelo:
     
 INFORMAÇÕES DO VEÍCULO:
