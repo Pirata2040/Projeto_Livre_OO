@@ -1,0 +1,27 @@
+Nome: Chev
+Modelo: Cobalt
+Ano: 2013
+Preco: R$ 45000
+Nome: Paulo 
+Contato: 54 98765456 
+CPF: 98765432191 
+UF: GO
+---
+Nome: Chev
+Modelo: Spin
+Ano: 2017
+Preco: R$ 45000
+Nome: Paulo 
+Contato: 75 845455432 
+CPF: 54387645131 
+UF: GO
+---
+Nome: Honda
+Modelo: Civic
+Ano: 2015
+Preco: R$ 67000
+Nome: Murilo 
+Contato: 43 545465455 
+CPF: 54345665454 
+UF: GO
+---
